@@ -4,13 +4,13 @@ Image Rotation , built using OpenCV library in c++
 # Description:
 This is a C++ program to rotate the input file(image) by the use of wrafAffine funtion which is inbuilt in the opencv library. wrafAffine takes 4 parametres. First is source image file , second is destination image file ,  third parameter is mat object that is ouput after rotating with some point taking into reference and last is taking the size.
 
-#Applications:
+# Applications:
 - Face Recognition
 - Count - people, objects, vechicles
 - Object Recognition
 - Anomaly Detection
 
-#Steps to be followed:
+# Steps to be followed:
 1) Install openCV with Visual Studio
 2) Include all necessary header filesfor your application
 3) Using namespace cv
@@ -23,7 +23,7 @@ This is a C++ program to rotate the input file(image) by the use of wrafAffine f
  * #include <opencv2/imgproc.hpp>
  * #include <iostream>
   
- #Functions Used:
+ # Functions Used:
  * imread()
       This will read your image
  * image.empty()
