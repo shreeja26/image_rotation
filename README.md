@@ -1,4 +1,4 @@
-# image_rotation
+# image-rotation
 Image Rotation , built using OpenCV library in c++
 
 # Description:
