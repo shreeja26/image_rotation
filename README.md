@@ -20,6 +20,7 @@ This is a C++ program to rotate the input file(image) by the use of wrafAffine f
  * #include <opencv2/core/core.hpp>
  * #include <opencv2/highgui/highgui.hpp>
  * #include <opencv2/imgproc.hpp>
+ * #include <iostream>
   
  # Functions Used:
  * imread()
