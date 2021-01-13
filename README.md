@@ -21,13 +21,12 @@ This is a C++ program to rotate the input file(image) by the use of wrafAffine f
  * #include <opencv2/core/core.hpp>
  * #include <opencv2/highgui/highgui.hpp>
  * #include <opencv2/imgproc.hpp>
- * #include <iostream>
   
  # Functions Used:
  * imread()
-      This will read your image
+      - This will read your image
  * image.empty()
-      If anyhow image is not found at the time of processing then it will go to this block
+      - If anyhow image is not found at the time of processing then it will go to this block
  * named window(windowname)
       For creating a image you need to open a window, so we create a new window
  * imshow(windowname, image)
